@@ -1,5 +1,5 @@
 #
-# A make file containing all the libaries directives.
+# A make file containing all the libraries directives.
 #
 #
 
@@ -11,7 +11,7 @@ libraries[backbone][download][url] = "https://github.com/jashkenas/backbone/arch
 
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor%20for%20Drupal/edit/ckeditor_4.4.3_edit.zip"
-; Add a style to the CKEditor skin that shows astrisks next to required fields.
+; Add a style to the CKEditor skin that shows asterisks next to required fields.
 libraries[ckeditor][patch][2377763] = https://www.drupal.org/files/issues/ckeditor-asterisk-for-required-fields.patch
 
 libraries[colorbox][download][type] = "get"
