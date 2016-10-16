@@ -1,5 +1,5 @@
 #
-# A make file containing all the libaries directives.
+# A make file containing all the libraries directives.
 #
 #
 
